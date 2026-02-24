@@ -1,2 +1,2 @@
 # sigterm-handlers
-Examples of various languages catching SIGTERM (or other signals)
+Examples of web server on various languages crashing when calling /crash
